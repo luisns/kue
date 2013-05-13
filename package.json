@@ -1,7 +1,7 @@
 {
-    "name": "kue"
+    "name": "multikue"
   , "version": "0.6.2"
-  , "description": "Feature rich priority job queue backed by redis"
+  , "description": "Feature rich priority job queue backed by redis. Forked from kue to allow multiple kue instances"
   , "homepage": "http://learnboost.github.com/kue/"
   , "keywords": ["job", "queue", "worker", "redis"]
   , "author": "TJ Holowaychuk <tj@learnboost.com>"
