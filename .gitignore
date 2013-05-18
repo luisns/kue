@@ -3,3 +3,4 @@ node_modules
 *.sock
 testing
 lib/http/public/stylesheets/main.css
+.idea/
